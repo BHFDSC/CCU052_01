@@ -1,32 +1,26 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for single-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# The changing epidemiology pre, during and post COVID-19 of asthma, interstitial lung disease (ILD) and chronic obstructive pulmonary disease (COPD) in England
 
 ## Project description
 
-Description will be added here.
+We plan to describe the incidence of asthma, interstitial lung disease (ILD) and chronic obstructive pulmonary disease (COPD) in England from 2019 and understand how the COIVD-19 pandemic has changed these estimates. Given the impact of the COVID-19 pandemic we need to understand how these diseases are changing at a national level, to inform public health policy and planning.
+
+We will collaborate with researchers to use English de-identified patient data to answer this question. These data sit in secure and safe research environments with several data sources linked together, including primary care, hospital data, death registry data, COVID-19 testing and vaccination data. 
+
+This research is of public benefit as we will answer important questions on how incidence of these common respiratory diseases has changed due to the pandemic and why. We will add value to these data, sharing expertise and data on lung disease. We will also develop an observatory, i.e. a large dataset of asthma, ILD and COPD patients which can potentially be maintained and regularly updated in the long term to answer further research within the TRE. 
+
+The findings from this project will provide insights into how common and severe these diseases are in different areas and populations. This knowledge will play a crucial role in public health planning and identifying areas for future research and development and help us to better understand the impact of the COVID-19 pandemic on respiratory diseases. We will add value to these data, sharing respiratory clinical and data expertise. Our work could be used to develop disease specific risk models’ clinicians, healthcare providers and policy makers and influencers can use to better understand these diseases at a population level.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
+* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU052_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU052_01/tree/main/phenotypes)
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
-
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU0XX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU0XX_XX).
+This is a sub-project of [project CCU052](https://github.com/BHFDSC/CCU052) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU052_01).
 
 ## License
 
