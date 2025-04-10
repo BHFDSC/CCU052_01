@@ -13,7 +13,7 @@ This research is of public benefit as we will answer important questions on how 
 The findings from this project will provide insights into how common and severe these diseases are in different areas and populations. This knowledge will play a crucial role in public health planning and identifying areas for future research and development and help us to better understand the impact of the COVID-19 pandemic on respiratory diseases. We will add value to these data, sharing respiratory clinical and data expertise. Our work could be used to develop disease specific risk models’ clinicians, healthcare providers and policy makers and influencers can use to better understand these diseases at a population level.
 
 ## How to cite this work
-Whittaker H, Kramer Fiala Machado A, Hatam S, et al, Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern IrelandThorax Published Online First: 08 April 2025. doi: https://doi.org/10.1136/thorax-2024-222699
+Whittaker H, Kramer Fiala Machado A, Hatam S, et al, Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern Ireland, Thorax Published Online First: 08 April 2025. doi: https://doi.org/10.1136/thorax-2024-222699
 
 ## Contents
 
